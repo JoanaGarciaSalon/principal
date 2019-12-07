@@ -1,0 +1,11 @@
+header ul{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+header ul li {
+    flex: 1;
+}
